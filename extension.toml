@@ -1,0 +1,8 @@
+id = "atom-one-dark"
+name = "Atom One"
+version = "0.1.0"
+schema_version = 1
+authors = ["Stelath"]
+description = "A port of the One Dark theme (originally from the Atom text editor) to Zed"
+repository = "https://github.com/stelath/zed-theme-onedark"
+themes = ["themes/one-dark.json", "themes/one-light.json"]
