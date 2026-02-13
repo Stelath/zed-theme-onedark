@@ -2,7 +2,19 @@
 
 A port of [akamud's Atom One Dark theme](https://github.com/akamud/vscode-theme-onedark) (originally from the Atom text editor) to Zed. Includes both dark and light variants.
 
-![One Dark Theme](https://raw.githubusercontent.com/stelath/zed-theme-onedark/main/art/preview.png)
+## Screenshots
+
+<p align="center">
+  <img src="assets/one-light.png" alt="One Light Theme">
+  <br>
+  <em>One Light Theme</em>
+</p>
+
+<p align="center">
+  <img src="assets/one-dark.png" alt="One Dark Theme">
+  <br>
+  <em>One Dark Theme</em>
+</p>
 
 ## Installation
 
